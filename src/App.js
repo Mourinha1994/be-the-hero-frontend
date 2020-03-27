@@ -1,8 +1,10 @@
 import React from 'react';
 
+import Logon from './pages/Logon';
+
 function App() {
   return (
-    <h1>Front End</h1>
+    <Logon />
   );
 }
 
